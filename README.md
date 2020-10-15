@@ -1,17 +1,22 @@
-# esp32-mqtt-raspberrypi
-Esp32 com protocolo MQTT, utilizando broker Mosquitto embarcado no Raspberry Pi
+## PROTOCOLO MQTT NO ESP32 E BROKER MOSQUITTO NO RASPBERRY PI
 
-![](https://github.com/MrFMach/esp32-mqtt-raspberrypi/tree/main/media/esp32-broker-raspbpi.gif)
+### RESULTADO
 
-![](https://github.com/MrFMach/esp32-mqtt-raspberrypi/tree/main/media/Slide2.jpg)
+![](https://github.com/MrFMach/esp32-mqtt-raspberrypi/blob/main/media/esp32-broker-raspbpi.gif)
 
-![](https://github.com/MrFMach/esp32-mqtt-raspberrypi/tree/main/media/Slide3.jpg)
+![](https://github.com/MrFMach/esp32-mqtt-raspberrypi/blob/main/media/Slide2.jpg)
+### Especificação da versão 3.1.1 http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html
 
-![](https://github.com/MrFMach/esp32-mqtt-raspberrypi/tree/main/media/Slide4.jpg)
+![](https://github.com/MrFMach/esp32-mqtt-raspberrypi/blob/main/media/Slide3.jpg)
+### Saiba mais em: https://www.raspberrypi.org/help/
 
-![](https://github.com/MrFMach/esp32-mqtt-raspberrypi/tree/main/media/Slide5.jpg)
+![](https://github.com/MrFMach/esp32-mqtt-raspberrypi/blob/main/media/Slide4.jpg)
 
-![](https://github.com/MrFMach/esp32-mqtt-raspberrypi/tree/main/media/Slide6.jpg)
+![](https://github.com/MrFMach/esp32-mqtt-raspberrypi/blob/main/media/Slide5.jpg)
 
-![](https://github.com/MrFMach/esp32-mqtt-raspberrypi/tree/main/media/Slide7.jpg)
+![](https://github.com/MrFMach/esp32-mqtt-raspberrypi/blob/main/media/Slide6.jpg)
+
+![](https://github.com/MrFMach/esp32-mqtt-raspberrypi/blob/main/media/Slide7.jpg)
+
+![](https://github.com/MrFMach/esp32-mqtt-raspberrypi/blob/main/media/Slide8.jpg)
 
